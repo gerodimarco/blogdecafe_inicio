@@ -213,6 +213,10 @@ img {
     margin-top: 4rem;
 }
 
+.marca {
+    color: var(--blanco);
+}
+
 /** Sobre Nosotros **/
 
 @media (min-width: 768px) {
